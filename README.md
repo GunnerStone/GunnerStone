@@ -47,7 +47,6 @@
 <p align="center">
 	<a target="_blank" href="https://github.com/gunnerstone/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnerstone&show_icons=true&theme=dark&count_private=true&layout=compact" width="400" /></a>
 </p>
--->
 
 <br/>
 <br/>
