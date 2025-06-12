@@ -40,9 +40,9 @@
 
 <h2 align="center"> My Stats </h2>
 
-<p align="center">
+<!--<p align="center">
 	<a target="_blank" href="https://github.com/gunnerstone/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=gunnerstone&show_icons=true&theme=dark&count_private=true" width="400" /></a>
-</p>
+</p>-->
 
 <p align="center">
 	<a target="_blank" href="https://github.com/gunnerstone/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnerstone&show_icons=true&theme=dark&count_private=true&layout=compact" width="400" /></a>
