@@ -1,6 +1,8 @@
 <h2 align="center"> Welcome👋 I'm <a href=https://gunnerstone.github.io/>Gunner Stone</a>! </h2>
 
-![GitHub stars](https://img.shields.io/github/stars/GunnerStone?affiliations=OWNER&style=social)
+<p align="center">
+       <img src="https://img.shields.io/github/stars/GunnerStone?affiliations=OWNER&style=social" alt="GitHub stars" />
+     </p>
 
 <p align="center">
 	<a target="_blank" href="https://github.com/gunnerstone"><img src="https://badges.pufler.dev/years/gunnerstone?color=blue" alt="Gunner Github Years" width="70" /></a>&nbsp;&nbsp;
