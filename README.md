@@ -1,5 +1,7 @@
 <h2 align="center"> Welcome👋 I'm <a href=https://gunnerstone.github.io/>Gunner Stone</a>! </h2>
+
 ![GitHub stars](https://img.shields.io/github/stars/GunnerStone?style=social)
+
 <p align="center">
 	<a target="_blank" href="https://github.com/gunnerstone"><img src="https://badges.pufler.dev/years/gunnerstone?color=blue" alt="Gunner Github Years" width="70" /></a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/gunnerstone"><img src="https://komarev.com/ghpvc/?username=gunnerstone&color=blue" alt="Gunner Github Years" width="120" /></a>&nbsp;&nbsp;
